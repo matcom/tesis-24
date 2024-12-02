@@ -1,4 +1,4 @@
-# Tesis 2025
+# Tesis 2024
 > Repositorio central de Tesis MatCom.
 
 En este repositorio encontrará enlaces a todas las tesis defendidas en MatCom en el año 2025.
